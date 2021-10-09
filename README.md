@@ -1,5 +1,5 @@
 # OFFAL
-The OFFline Authentication Laborer is a Discord bot that provides commands for authenticating Something Awful Forums accounts built using Javascript.
+The OFFsite Authentication Laborer is a Discord bot that provides commands for authenticating Something Awful Forums accounts built using Javascript.
 
 # Usage
 You will have to log into the Discord Developer Portal and create an App + Bot. 
