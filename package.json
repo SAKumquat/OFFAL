@@ -5,6 +5,9 @@
   "main": "index.js",
   "license": "FAFOL",
   "type": "module",
+  "scripts": {
+    "start": "node ."
+  },
   "dependencies": {
     "@discordjs/rest": "^0.1.0-canary.0",
     "cheerio": "^1.0.0-rc.10",
