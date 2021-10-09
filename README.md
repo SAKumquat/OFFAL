@@ -6,6 +6,8 @@ You will have to log into the Discord Developer Portal and create an App + Bot.
 
 Populate a `.env` file based on `sample.env` using your application's Client Id, Discord Token, and the Server (Guild) Id you wish to have the bot in. `ROLE_NAME` should be the name of the Discord Role in your server you want to be applied to authenticated users.
 
+You'll need to run `node deploy-commands.js` to register the commands for your bot with Discord.
+
 Running the discord bot itself should be as simple as `yarn install` followed by `yarn start`.
 
 # Operation
