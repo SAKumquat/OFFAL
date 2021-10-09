@@ -1,0 +1,20 @@
+{
+  "name": "offal",
+  "version": "1.0.0",
+  "description": "OFFsite Authentication Laborer",
+  "main": "index.js",
+  "license": "FAFOL",
+  "type": "module",
+  "dependencies": {
+    "@discordjs/rest": "^0.1.0-canary.0",
+    "cheerio": "^1.0.0-rc.10",
+    "discord-api-types": "^0.23.1",
+    "discord.js": "^13.2.0",
+    "dotenv": "^10.0.0",
+    "got": "^11.8.2",
+    "knex": "^0.95.11",
+    "sqlite3": "^5.0.2",
+    "tough-cookie": "^4.0.0",
+    "uuid": "^8.3.2"
+  }
+}
